@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-  s.name         = 'SSZipArchive'
+  s.name         = 'HrsecSSZipArchive'
   s.version      = '1.6.2'
   s.summary      = 'Utility class for zipping and unzipping files on iOS, tvOS, watchOS, and Mac.'
-  s.description  = 'SSZipArchive is a simple utility class for zipping and unzipping files on iOS, tvOS, watchOS, and Mac.'
+  s.description  = 'HrsecSSZipArchive is a simple utility class for zipping and unzipping files on iOS, tvOS, watchOS, and Mac.'
   s.homepage     = 'https://github.com/xiaotuikuaipao/HrsecSSZipArchive'
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author       = { 'Sam Soffes' => 'sam@soff.es' }
